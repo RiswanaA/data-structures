@@ -1,4 +1,4 @@
-const array1= [5,7,8,10];
+const array1= [1,2,3,5];
 
 if(array1.length!=0)
 {
